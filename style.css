@@ -1,0 +1,35 @@
+body {
+    background-color: #e7e7e7;
+    font-family: sans-serif;
+    padding-bottom: 30px;
+    padding: 0px 5% 30px;
+}
+
+h1 {
+    color: darkgoldenrod;
+    text-align: center;
+}
+
+h2 {
+    color: darkkhaki;
+}
+
+p {
+	font-family: "arial", sans-serif;
+	 color: #5F6A6A;
+}
+
+section {
+	background-color: whitesmoke;
+	width: 90%;
+	padding: 30px;
+	margin: 15px auto;
+	box-sizing: border-box;
+}
+
+img {
+    width: 250px;
+}
+
+
+
